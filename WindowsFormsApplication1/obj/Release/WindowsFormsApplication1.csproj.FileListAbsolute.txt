@@ -1,0 +1,13 @@
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.manifest
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.application
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\VS COMMUNITY\Projekty\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.TrustInfo.xml
